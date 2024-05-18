@@ -1,3 +1,5 @@
+WORK IN PROGRESS!!!!
+
 Creating a tool like Twitter Picker involves building a web application that allows users to input a tweet URL and then randomly pick a winner from the replies. This involves several steps, including setting up a web server, fetching data from Twitter, and creating a user interface.
 
 Here's a step-by-step guide to creating a simplified version of a Twitter Picker using Python with Flask for the backend, Tweepy for accessing Twitter API, and HTML/CSS for the frontend.
